@@ -1,0 +1,3 @@
+
+Conway
+Conway.jar,core.jar
